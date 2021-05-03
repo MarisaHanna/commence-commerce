@@ -15,16 +15,14 @@ Product.init(
        allowNull: false,
        primaryKey: true,
        autoIncrement: true
-    }
-  },
-  {
+    },
+  
       product_name: {
         
         type: DataTypes.STRING,
         allowNull: false
-      }
-  },
-  {
+      },
+  
       price: {
 
         type: DataTypes.DECIMAL,
@@ -32,9 +30,8 @@ Product.init(
         validate: {
           isDecimal: true
         }
-      }
-  },
-  {
+      },
+  
       stock: {
         
         type:DataTypes.INTEGER,
@@ -44,9 +41,9 @@ Product.init(
           isNumeric: true
         }
 
-      }
-  },
-  {
+      },
+ 
+
       category_id: {
 
         type: DataTypes.INTEGER,
