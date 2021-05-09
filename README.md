@@ -9,7 +9,7 @@
 
 #       Images
 
-![]()
+![giphy](./images/giphy.gif)
 ![screen-shot1](./images/screen-shot1.png)
 ![screen-shot2](./images/screen-shot2.png)
 
@@ -17,7 +17,7 @@
 
 #       Video Link
 
-[Application Video]()
+[Application Video](https://youtu.be/UoeJUR1xPT4)
 
 
 
